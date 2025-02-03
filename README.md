@@ -80,20 +80,7 @@ Author ✍️
 Eliandy Dumortier & Dorothée Catry
 
 requirements.txt 📜
-
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-fastapi
-uvicorn
-django
-djangorestframework
-sqlalchemy
-psycopg2
-pydantic
-docker
+(à compléter)
 
 Contributions 🤝
 
