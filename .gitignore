@@ -1,0 +1,35 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+.venv/
+venv/
+Pipfile
+Pipfile.lock
+
+# Ignore dataset files (if needed)
+*.csv
+*.xlsx
+*.json
+
+# Ignore model files
+model.pickle
+*.h5
+*.joblib
+
+# Ignore log files
+*.log
+
+# Ignore IDE and OS-specific files
+.vscode/
+*.DS_Store
+
+#Folders to ignore
+Notebook_exemples/
