@@ -33,3 +33,4 @@ model.pickle
 
 #Folders to ignore
 Notebook_exemples/
+data/
