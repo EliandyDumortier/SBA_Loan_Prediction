@@ -18,6 +18,7 @@ Pipfile.lock
 *.csv
 *.xlsx
 *.json
+exp_data.pkl
 
 # Ignore model files
 model.pickle
@@ -34,3 +35,4 @@ model.pickle
 #Folders to ignore
 Notebook_exemples/
 data/
+
