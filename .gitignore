@@ -35,4 +35,6 @@ model.pickle
 #Folders to ignore
 Notebook_exemples/
 data/
+data/exp_data.pkl
+
 
