@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SBA Financial Data Modeling and Analysis
 
 ## Project Context
@@ -158,3 +159,6 @@ This README provides a comprehensive yet concise summary of your project, its st
 - [Eliandy Dumortier](https://github.com/EliandyDumortier)
 
 
+=======
+# Brief_Loan_Project
+>>>>>>> d2c02d06780a8e40652c0297ed1c79b44dcf69b3
