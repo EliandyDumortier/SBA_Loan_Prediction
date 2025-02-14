@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SBA Financial Data Modeling and Analysis
 
 ## Project Context
@@ -151,14 +151,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - **PowerBI Dashboard:**  
   An interactive PowerBI dashboard is also available to provide additional insights.
 
-This README provides a comprehensive yet concise summary of your project, its structure, and how to use it. Let me know if you need any further modifications, bestie!
 
 # Authors
 - [Dorothée Cathry](https://github.com/DorotheeCatry)
 
 - [Eliandy Dumortier](https://github.com/EliandyDumortier)
 
-
-=======
-# Brief_Loan_Project
->>>>>>> d2c02d06780a8e40652c0297ed1c79b44dcf69b3
