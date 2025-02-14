@@ -10,7 +10,7 @@ This is a binary classification problem (the loan should be granted or not). Imp
 ## Project Structure
 
 The project is divided into two main parts:
-1. **Data Cleaning, EDA, and Modeling (Machine Learning Focus, 2 weeks):**  
+1. **Data Cleaning, EDA, and Modeling (Machine Learning Focus):**  
    - **Data Cleaning & Preprocessing:**  
      We begin by cleaning the raw data and performing exploratory data analysis (EDA) to understand its characteristics. This involves univariate and bivariate analyses, statistical tests, and more.
    - **Feature Engineering & Selection:**  
