@@ -37,5 +37,5 @@ Notebook_exemples/
 data/
 data/exp_data.pkl
 
-notebooks/catboost_info/
+notebooks/catboost_info
 
