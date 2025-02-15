@@ -156,7 +156,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [Dorothée Cathry](https://github.com/DorotheeCatry)
 
 - [Eliandy Dumortier](https://github.com/EliandyDumortier)
-<<<<<<< HEAD
-=======
 
->>>>>>> 14ab0890ad977cebcb01e6562be67d7c08c02ea0
